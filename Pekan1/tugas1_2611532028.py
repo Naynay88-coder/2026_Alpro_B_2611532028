@@ -1,0 +1,7 @@
+print("Tugas ini dibuat oleh")
+print()
+print("Nama: Naysha Putri")
+print("NIM: 2611532028")
+print("Kelas: Praktikum B")
+print()
+print("Sekian, terimkasih.")
